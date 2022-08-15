@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "first_name": "nishant ",
+      "last_name": "Pandey",
+      "contact_number": "098765477",
+      "email": "nit@gmaii.com",
+      "address": "patna1",
+      "id": 3
+    },
+    {
+      "first_name": "Abhishek Agg",
+      "last_name": "Anand",
+      "contact_number": "7909055230",
+      "email": "abhishekanand.jnv@gmail.com",
+      "address": "bangalore",
+      "id": 6
+    },
+    {
+      "first_name": "Anishka",
+      "last_name": "Hujur",
+      "contact_number": "9113704636",
+      "email": "abnishka@gmail.com",
+      "address": "Jharkhand",
+      "id": 7
+    },
+    {
+      "first_name": "Kanhaiya",
+      "last_name": "Sudhakar",
+      "contact_number": "8271050205",
+      "email": "Millan.ambuprabhakar30@gmail.com",
+      "address": "WARD NO 11 AMBU MEDICAL HALL",
+      "id": 8
+    },
+    {
+      "first_name": "Pooja",
+      "last_name": "Jumari",
+      "contact_number": "67895847",
+      "email": "pooja@gmail.com",
+      "address": "sgfdg",
+      "id": 9
+    }
+  ]
+}
