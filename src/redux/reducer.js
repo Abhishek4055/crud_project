@@ -20,7 +20,7 @@ const usersReducer = (state = initialState, action) => {
       return {
         ...state,
         loading: false,
-        users: action.payload,
+        users: action.payload.reverse(),
       };
 
     case types.GET_CREATE_USER_SUCCESS:

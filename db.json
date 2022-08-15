@@ -17,14 +17,6 @@
       "id": 6
     },
     {
-      "first_name": "Anishka",
-      "last_name": "Hujur",
-      "contact_number": "9113704636",
-      "email": "abnishka@gmail.com",
-      "address": "Jharkhand",
-      "id": 7
-    },
-    {
       "first_name": "Kanhaiya",
       "last_name": "Sudhakar",
       "contact_number": "8271050205",
@@ -33,12 +25,20 @@
       "id": 8
     },
     {
-      "first_name": "Pooja",
-      "last_name": "Jumari",
-      "contact_number": "67895847",
-      "email": "pooja@gmail.com",
-      "address": "sgfdg",
-      "id": 9
+      "first_name": "raja",
+      "last_name": "thakur",
+      "contact_number": "684034058",
+      "email": "raja@gmail.com",
+      "address": "abc",
+      "id": 10
+    },
+    {
+      "first_name": "Rohit",
+      "last_name": "Kumar thakur",
+      "contact_number": "890359345",
+      "email": "rohitkumar@gmail.com",
+      "address": "dsjfldkf",
+      "id": 11
     }
   ]
 }
